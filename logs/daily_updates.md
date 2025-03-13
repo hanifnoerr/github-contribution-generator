@@ -38,3 +38,4 @@ This file is updated automatically.
 - **2025-03-13** - update 34 _(imported on 2026-03-08)_
 - **2025-03-13** - update 35 _(imported on 2026-03-08)_
 - **2025-03-13** - update 36 _(imported on 2026-03-08)_
+- **2025-03-13** - update 37 _(imported on 2026-03-08)_

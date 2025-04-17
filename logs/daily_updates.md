@@ -307,3 +307,4 @@ This file is updated automatically.
 - **2025-04-17** - update 303 _(imported on 2026-03-08)_
 - **2025-04-17** - update 304 _(imported on 2026-03-08)_
 - **2025-04-17** - update 305 _(imported on 2026-03-08)_
+- **2025-04-17** - update 306 _(imported on 2026-03-08)_

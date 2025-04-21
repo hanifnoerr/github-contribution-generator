@@ -343,3 +343,4 @@ This file is updated automatically.
 - **2025-04-21** - update 339 _(imported on 2026-03-08)_
 - **2025-04-21** - update 340 _(imported on 2026-03-08)_
 - **2025-04-21** - update 341 _(imported on 2026-03-08)_
+- **2025-04-21** - update 342 _(imported on 2026-03-08)_

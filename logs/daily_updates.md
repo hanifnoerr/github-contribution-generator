@@ -498,3 +498,4 @@ This file is updated automatically.
 - **2025-05-12** - update 494 _(imported on 2026-03-08)_
 - **2025-05-12** - update 495 _(imported on 2026-03-08)_
 - **2025-05-12** - update 496 _(imported on 2026-03-08)_
+- **2025-05-12** - update 497 _(imported on 2026-03-08)_

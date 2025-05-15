@@ -524,3 +524,4 @@ This file is updated automatically.
 - **2025-05-15** - update 520 _(imported on 2026-03-08)_
 - **2025-05-15** - update 521 _(imported on 2026-03-08)_
 - **2025-05-15** - update 522 _(imported on 2026-03-08)_
+- **2025-05-15** - update 523 _(imported on 2026-03-08)_

@@ -581,3 +581,4 @@ This file is updated automatically.
 - **2025-05-22** - update 577 _(imported on 2026-03-08)_
 - **2025-05-22** - update 578 _(imported on 2026-03-08)_
 - **2025-05-22** - update 579 _(imported on 2026-03-08)_
+- **2025-05-23** - update 580 _(imported on 2026-03-08)_

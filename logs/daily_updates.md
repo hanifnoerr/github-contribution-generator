@@ -1581,3 +1581,4 @@ This file is updated automatically.
 - **2025-05-23** - update 1577 _(imported on 2026-03-08)_
 - **2025-05-23** - update 1578 _(imported on 2026-03-08)_
 - **2025-05-24** - update 1579 _(imported on 2026-03-08)_
+- **2025-05-24** - update 1580 _(imported on 2026-03-08)_

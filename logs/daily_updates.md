@@ -591,3 +591,4 @@ This file is updated automatically.
 - **2025-05-24** - update 587 _(imported on 2026-03-08)_
 - **2025-05-24** - update 588 _(imported on 2026-03-08)_
 - **2025-05-24** - update 589 _(imported on 2026-03-08)_
+- **2025-05-25** - update 590 _(imported on 2026-03-08)_

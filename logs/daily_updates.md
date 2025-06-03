@@ -1724,3 +1724,4 @@ This file is updated automatically.
 - **2025-06-03** - update 1720 _(imported on 2026-03-08)_
 - **2025-06-03** - update 1721 _(imported on 2026-03-08)_
 - **2025-06-03** - update 1722 _(imported on 2026-03-08)_
+- **2025-06-03** - update 1723 _(imported on 2026-03-08)_

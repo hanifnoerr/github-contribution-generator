@@ -1938,3 +1938,4 @@ This file is updated automatically.
 - **2025-06-18** - update 1934 _(imported on 2026-03-08)_
 - **2025-06-18** - update 1935 _(imported on 2026-03-08)_
 - **2025-06-18** - update 1936 _(imported on 2026-03-08)_
+- **2025-06-19** - update 1937 _(imported on 2026-03-08)_

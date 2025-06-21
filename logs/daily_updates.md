@@ -1967,3 +1967,4 @@ This file is updated automatically.
 - **2025-06-20** - update 1963 _(imported on 2026-03-08)_
 - **2025-06-20** - update 1964 _(imported on 2026-03-08)_
 - **2025-06-21** - update 1965 _(imported on 2026-03-08)_
+- **2025-06-21** - update 1966 _(imported on 2026-03-08)_

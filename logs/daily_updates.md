@@ -1983,3 +1983,4 @@ This file is updated automatically.
 - **2025-06-21** - update 1979 _(imported on 2026-03-08)_
 - **2025-06-21** - update 1980 _(imported on 2026-03-08)_
 - **2025-06-21** - update 1981 _(imported on 2026-03-08)_
+- **2025-06-21** - update 1982 _(imported on 2026-03-08)_

@@ -1989,3 +1989,4 @@ This file is updated automatically.
 - **2025-06-22** - update 1985 _(imported on 2026-03-08)_
 - **2025-06-22** - update 1986 _(imported on 2026-03-08)_
 - **2025-06-22** - update 1987 _(imported on 2026-03-08)_
+- **2025-06-22** - update 1988 _(imported on 2026-03-08)_

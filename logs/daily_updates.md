@@ -1996,3 +1996,4 @@ This file is updated automatically.
 - **2025-06-22** - update 1992 _(imported on 2026-03-08)_
 - **2025-06-22** - update 1993 _(imported on 2026-03-08)_
 - **2025-06-22** - update 1994 _(imported on 2026-03-08)_
+- **2025-06-22** - update 1995 _(imported on 2026-03-08)_

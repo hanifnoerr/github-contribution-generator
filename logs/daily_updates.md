@@ -2029,3 +2029,4 @@ This file is updated automatically.
 - **2025-06-24** - update 2025 _(imported on 2026-03-08)_
 - **2025-06-24** - update 2026 _(imported on 2026-03-08)_
 - **2025-06-24** - update 2027 _(imported on 2026-03-08)_
+- **2025-06-24** - update 2028 _(imported on 2026-03-08)_

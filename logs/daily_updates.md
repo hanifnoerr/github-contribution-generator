@@ -2024,3 +2024,4 @@ This file is updated automatically.
 - **2025-06-24** - update 2020 _(imported on 2026-03-08)_
 - **2025-06-24** - update 2021 _(imported on 2026-03-08)_
 - **2025-06-24** - update 2022 _(imported on 2026-03-08)_
+- **2025-06-24** - update 2023 _(imported on 2026-03-08)_

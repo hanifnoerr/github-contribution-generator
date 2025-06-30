@@ -2097,3 +2097,4 @@ This file is updated automatically.
 - **2025-06-30** - update 2093 _(imported on 2026-03-08)_
 - **2025-06-30** - update 2094 _(imported on 2026-03-08)_
 - **2025-06-30** - update 2095 _(imported on 2026-03-08)_
+- **2025-06-30** - update 2096 _(imported on 2026-03-08)_

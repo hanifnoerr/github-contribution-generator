@@ -2588,3 +2588,4 @@ This file is updated automatically.
 - **2025-08-06** - update 2584 _(imported on 2026-03-08)_
 - **2025-08-06** - update 2585 _(imported on 2026-03-08)_
 - **2025-08-06** - update 2586 _(imported on 2026-03-08)_
+- **2025-08-06** - update 2587 _(imported on 2026-03-08)_

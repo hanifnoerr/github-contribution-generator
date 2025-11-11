@@ -3872,3 +3872,4 @@ This file is updated automatically.
 - **2025-11-10** - update 3868 _(imported on 2026-03-08)_
 - **2025-11-10** - update 3869 _(imported on 2026-03-08)_
 - **2025-11-10** - update 3870 _(imported on 2026-03-08)_
+- **2025-11-11** - update 3871 _(imported on 2026-03-08)_

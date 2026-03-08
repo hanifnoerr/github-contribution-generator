@@ -1,10 +1,16 @@
 # github-contribution-generator
-Because apparently green squares are now a career skill. This repo is a public demo of how easy it is to grow a very healthy-looking GitHub lawn with automation.
 
 > *Because apparently green squares are now a career skill. This repo is a public demo of how easy it is to grow a very healthy-looking GitHub lawn with automation.*
 
-
 A Python proof-of-concept that generates a fully populated GitHub contribution graph via automated, backdated Git commits. 
+
+**From this**
+
+![Before](before.png)
+
+**To this**
+
+![After](after.png)
 
 This repository exists to demonstrate what many developers already suspect: a GitHub contribution graph is an easily manipulated proxy metric, and a heavily green profile does not automatically equal engineering excellence.
 

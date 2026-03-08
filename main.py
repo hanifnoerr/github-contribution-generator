@@ -3,8 +3,8 @@ from pathlib import Path
 from commit_generator import process_commits
 
 # Define the Date Range (Format: "YYYY-MM-DD")
-START_DATE = "2025-03-09"
-END_DATE = "2026-03-08"
+START_DATE = "2025-06-01"
+END_DATE = "2025-06-30"
 
 # The script will randomly pick a number between these two values for each day.
 MIN_COMMITS_PER_DAY = 5 # Set MIN_COMMITS to 0 if you want to occasionally have completely blank days.

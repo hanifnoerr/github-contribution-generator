@@ -10,7 +10,7 @@ A Python proof-of-concept that generates a fully populated GitHub contribution g
 
 **To this**
 
-![After](after.png)
+![After](after_.png)
 
 This repository exists to demonstrate what many developers already suspect: a GitHub contribution graph is an easily manipulated proxy metric, and a heavily green profile does not automatically equal engineering excellence.
 
